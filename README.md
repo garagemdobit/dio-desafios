@@ -1,2 +1,2 @@
-# dio-desafios
+# Repositório do Desafio de Projetos
 Desafios da Dio
